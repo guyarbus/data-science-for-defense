@@ -3,7 +3,7 @@
 > The 5W2H framework is a structured questioning method that helps you cover every critical dimension of your project in a clear, logical, and convincing way. Here’s how each dimension maps to a data science defense context.
 
 
-## Who? (Stakeholders & Team)
+## Who? (Stakeholders & Team)
 
 Identify who is involved in the project: who **conducted** the research, who **supervised** it, and crucially, **who benefits from the results**.
 
@@ -26,7 +26,7 @@ From a data perspective, this also includes:
 
 ---
 
-## What? (Problem Definition & Objectives)
+## What? (Problem Definition & Objectives)
 
 This is the core of your introduction. Precisely define what problem you are solving, what your target variable is, what kind of task it is (classification, regression, clustering, NLP, etc.), and what success looks like.
 
@@ -45,7 +45,7 @@ It also includes:
 
 ---
 
-## When? (Timeline & Data Temporality)
+## When? (Timeline & Data Temporality)
 
 Explain when the project was conducted, but also (and this is often overlooked) address the temporal dimension of your data. When was it collected? Is there a risk of temporal leakage or concept drift? For time-series projects, this dimension becomes central to your methodology.
 
@@ -60,7 +60,7 @@ Key considerations include:
 
 ---
 
-## Where? (Data Sources & Context)
+## Where? (Data Sources & Context)
 
 Describe where your data comes from: the platform, organization, or database, and whether it is proprietary, open-source, or scraped. This is also where you justify the geographical or organizational scope of your study and address any data access or ethical constraints.
 
@@ -79,7 +79,7 @@ In defense applications, this includes:
 
 ---
 
-## Why? (Motivation & Scientific Justification)
+## Why? (Motivation & Scientific Justification)
 
 This is arguably the most important dimension. You need to articulate why this problem matters, why data science is the right approach, and why your methodological choices (model selection, preprocessing strategy, evaluation metric) were made. Linking your “why” to the literature strengthens your scientific posture significantly.
 
@@ -101,7 +101,7 @@ This dimension also supports:
 
 ---
 
-## How? (Methodology & Pipeline)
+## How? (Methodology & Pipeline)
 
 Walk through how you solved the problem: your end-to-end pipeline from data ingestion and preprocessing, through feature engineering, model training, hyperparameter tuning, to evaluation. Be precise about your technical choices and ready to defend them. Reproducibility and rigor are key signals juries look for here.
 
@@ -129,7 +129,7 @@ In a defense data science project, this includes:
 
 ---
 
-## How Much? (Metrics, Scale & Resources)
+## How Much? (Metrics, Scale & Resources)
 
 Quantify everything: how much data you used, how long training took, what computational resources were needed, and most importantly, how well your model performs across your chosen metrics. Be honest about trade-offs (precision vs. recall, bias vs. variance).
 
@@ -150,7 +150,7 @@ It also includes:
 
 ---
 
-## Conclusion
+## Conclusion
 
 By systematically addressing each of these seven questions, you create a comprehensive project blueprint that anticipates challenges, clarifies expectations, and provides a framework for execution and evaluation.
 
