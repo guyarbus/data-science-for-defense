@@ -39,4 +39,20 @@ I'm a data scientist passionate about the intersection of AI and defense. I writ
 
 ---
 
+## STRUCTURE
+
+DATA-SCIENCE-FOR-DEFENSE
+|
+├── academic_and_career/
+├── applications_and_use_cases/
+├── data_and_infrastructure/
+├── emerging_trends/
+├── ethics_and_governance/
+├── methodological_and_technical/
+|
+├── LICENSE
+└── README.md
+
+---
+
 *Articles are published on Medium first and mirrored here in Markdown. All opinions are my own.*
