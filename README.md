@@ -39,7 +39,7 @@ I'm a data scientist passionate about the intersection of AI and defense. I writ
 
 ---
 
-## STRUCTURE
+## STRUCTURE
 
 ```
 DATA-SCIENCE-FOR-DEFENSE
