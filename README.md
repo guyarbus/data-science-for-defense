@@ -41,6 +41,7 @@ I'm a data scientist passionate about the intersection of AI and defense. I writ
 
 ## STRUCTURE
 
+```
 DATA-SCIENCE-FOR-DEFENSE
 |
 ├── academic_and_career/
@@ -52,6 +53,7 @@ DATA-SCIENCE-FOR-DEFENSE
 |
 ├── LICENSE
 └── README.md
+```
 
 ---
 
