@@ -31,8 +31,8 @@ Whether you're a **data scientist** curious about defense applications, a **defe
 
 I'm a data scientist passionate about the intersection of AI and defense. I write to make these topics accessible to both technical and non-technical audiences.
 
-- [Medium Profile](#)
-- [LinkedIn](#)
+- [Medium Profile](#https://medium.com/@guyarbus)
+- [LinkedIn](#https://www.linkedin.com/in/guyarbus/)
 
 ---
 
