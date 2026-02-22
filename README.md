@@ -13,9 +13,12 @@ Whether you're a **data scientist** curious about defense applications, a **defe
 
 ## TOPIC COVERED
 
-- **Machine Learning applied to Defense** - threat detection, predictive maintenance, decision support systems
-- **Computer Vision & Satellite Imagery** - object detection, change detection, geospatial intelligence
-- **NLP & OSINT** - text mining, entity extraction, open-source intelligence analysis
+- **Academic and Career** - A practical guide to the research ecosystem: key institutions, funding bodies, collaboration models, and career advice for data scientists interested in defense.
+- **Applications and Use cases** - Concrete examples of how data science is deployed on the field, from predictive systems to intelligence support, bridging theory and operational reality.
+- **Data and Infrastructure** - Exploration of the unique data challenges in defense: sensitivity, scarcity, interoperability, and the technical architectures needed to handle them securely.
+- **Emerging trends** - Forward-looking articles on technologies and concepts that are still maturing but will likely reshape defense data science in the coming years.
+- **Ethics and Governance** - Critical reflection on the moral and regulatory questions raised by AI in high-stakes, potentially lethal environments — a space where academic voices are especially needed.
+- **Methodological and Technical** - Deep dives into the core algorithms and techniques adapted for defense-specific challenges, where performance, robustness and real-time constraints matter more than in civilian contexts.
 
 ---
 
