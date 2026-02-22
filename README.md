@@ -21,9 +21,9 @@ Whether you're a **data scientist** curious about defense applications, a **defe
 
 ## ARTICLES
 
-| Title                                                 | Topic | Medium | Date |
-|-------------------------------------------------------|-------|--------|------|
-| 5W2H METHOD IN DEFENSE ORIENTED DATA SCIENCE PROJECTS |       | [Link](https://medium.com/@guyarbus/5w2h-method-in-defense-oriented-data-science-projects-0a7f4aa2cc49) | 2026/02/23 |
+| Title                                                 | Topic | Github | Medium | Date |
+|-------------------------------------------------------|-------|--------|--------|------|
+| 5W2H METHOD IN DEFENSE ORIENTED DATA SCIENCE PROJECTS | Methodological and Technical   | [Link](methodological_and_technical/5w2h_method_defense_data_science.md) | [Link](https://medium.com/@guyarbus/5w2h-method-in-defense-oriented-data-science-projects-0a7f4aa2cc49) | 2026/02/23 |
 
 ---
 
